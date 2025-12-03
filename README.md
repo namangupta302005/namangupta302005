@@ -16,13 +16,13 @@
 ### 🚀 Tech Stack & Skills  
 
 **Languages:**  
-Java | Python | JavaScript  
+Java | JavaScript  
 
 **Web Development:**  
-HTML | CSS | React | Node.js | Express.js | REST APIs  
+HTML | CSS | React | Node.js| REST APIs  
 
 **Tools & Tech:**  
-Git | GitHub | VS Code | Linux | Postman | MySQL | MongoDB  
+Git | GitHub | VS Code | Postman | MySQL | MongoDB  
 
 **Core CS Skills:**  
 Data Structures | Algorithms | OOPS | DBMS | OS | Computer Networks  
