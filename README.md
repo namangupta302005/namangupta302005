@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Naman Gupta</h1>
-<h3 align="center">Final-Year CSE (Data Science) Student | Java & DSA | MERN Developer | Tech Enthusiast 🚀</h3>
+<h3 align="center">Final-Year Engineering Student | Java & DSA | MERN Developer | Tech Enthusiast 🚀</h3>
 
 ---
 
@@ -46,10 +44,10 @@ My personal collection for problem-solving and practice.
 
 ### 🌍 Connect With Me  
 
-📧 Email: **namangupta302005@gmail.com**  
-🔗 LinkedIn: **https://linkedin.com/in/naman-gupta-30j2005**  
+📧 Email: **namangupta85088@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/naman-gupta-30j2005/**  
 💼 LeetCode: **https://leetcode.com/u/naman_gup30/**  
-🧠 GFG: **https://www.geeksforgeeks.org/user/namanguptetv/**  
+🧠 GFG: **https://www.geeksforgeeks.org/profile/namanguptettv**  
 
 ---
 
