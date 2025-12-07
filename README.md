@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:8A2BE2&height=200&section=header&text=Hello,%20I'm%20Akshat%20Verma%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:8A2BE2&height=200&section=header&text=Hello,%20I'm%20Naman%20Gupta%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
   <!-- <img src="https://git.io/typing-svg"> -->
