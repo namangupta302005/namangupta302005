@@ -42,15 +42,6 @@ My personal collection for problem-solving and practice.
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namangupta302005&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangupta302005&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 🌍 Connect With Me  
 
 📧 Email: **namangupta302005@gmail.com**  
