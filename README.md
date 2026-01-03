@@ -81,22 +81,6 @@ AI-powered chatbot using **Vector Database + Gemini API**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namangupta302005&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangupta302005&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namangupta302005&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 📧 **Email:** namangupta302005@gmail.com  
