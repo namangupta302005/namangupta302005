@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Gupta</h1>
 <h3 align="center">
-Final-Year Engineering Student | Java & DSA | MERN Developer | Tech Enthusiast 🚀
+Final-Year Engineering Student | Java & DSA | Full Stack Developer | Tech Enthusiast 🚀
 </h3>
 
 <p align="center">
