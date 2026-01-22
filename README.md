@@ -59,18 +59,34 @@ Final-Year Engineering Student | Java & DSA | Full Stack Developer | Tech Enthus
 
 ## 📌 Featured Projects
 
-### 🤖 Local Business Analyzer Chatbot  
-AI-powered chatbot using **Vector Database + Gemini API**  
-✔ Real-time insights  
-✔ Context-aware responses  
-✔ Scalable architecture  
+## 🚀 Featured Projects
+
+### 🏦 Banking Application System (Java)
+Console-based banking system inspired by real-world workflows  
+💰 Deposit & withdrawal operations  
+👤 Account creation & management  
+🧠 Strong focus on Core Java, OOP & logic building  
+⚡ Hands-on problem-solving approach  
 
 ---
 
-### 🖼️ NFT Marketplace (React + IPFS)  
-🧾 Mint NFTs on **Alchemy Sepolia Testnet**  
-🔐 Decentralized storage with IPFS  
-🎨 Modern UI with React  
+### 🤖 Smart AI-Based Email Assistant
+AI-powered tool for smart email drafting & replies  
+🤖 Built with Java, Spring Boot, React, JavaScript & CSS  
+🧠 Integrated Google Gemini API for intelligent responses  
+📩 Context-aware email generation & summarization  
+🌐 Modern full-stack architecture  
+
+---
+
+### ✈️ Airline Reservation System (Group Project) ---> Ongoing
+Secure & scalable airline booking platform  
+🔍 Flight search & seat availability  
+🎟️ Ticket booking system  
+🔐 Role-based access (Admin / User) using Spring Security  
+⚙️ RESTful APIs with Java, Spring Boot, MySQL & Thymeleaf  
+📈 Designed for real-world scalability  
+
 
 ---
 
