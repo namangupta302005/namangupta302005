@@ -45,7 +45,7 @@ Final-Year Engineering Student | Java & DSA | Full Stack Developer | Tech Enthus
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,linux"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mssql,mongodb,git,github,vscode,postman,linux"/>
 </p>
 
 ### 📚 Core CS Fundamentals
