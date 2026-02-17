@@ -35,12 +35,12 @@ Final-Year Engineering Student | Java & DSA | Full Stack Developer | Tech Enthus
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python"/>
+  <img src="https://skillicons.dev/icons?i=java,js"/>
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,springboot"/>
 </p>
 
 ### 🗄️ Databases & Tools
